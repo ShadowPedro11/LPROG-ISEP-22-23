@@ -1,0 +1,23 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+TRUE=5
+FALSE=6
+INT=7
+SPACE=8
+HIFEN=9
+VIRGULA=10
+END_STRING=11
+STRING=12
+WORD=13
+WS=14
+NEWLINE=15
+'=====TRUE_OR_FALSE_QUESTION====='=1
+'=====END_QUESTION====='=2
+'Value: '=3
+'Feedback: '=4
+'True'=5
+'False'=6
+' '=8
+'-'=9

@@ -1,0 +1,1 @@
+Deterministico. Em cada estado existe apenas uma transição possível para cada valor recebido.

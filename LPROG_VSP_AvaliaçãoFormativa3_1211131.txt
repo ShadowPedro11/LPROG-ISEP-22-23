@@ -1,0 +1,23 @@
+1. Considere a seguinte gramática:
+
+L1 = {{S}, {a, b}, {S -> ba | aSaa| SS | baS | Sba}, S}
+
+a)Prove que esta gramática é ambígua.
+
+b)Considerando a gramática anterior, encontre uma sequência de derivação para a palavra bababa
+
+ 
+
+a) S -> baS -> baSba -> bababa
+   
+   S -> SS -> baS -> babaS -> bababa
+
+b) S -> Sba -> SSba > baSba -> bababa
+
+
+
+2. Escreva uma gramática equivalente à expressão regular (a*b+(c|d)b)
+
+ S -> aS | T
+ T -> bT | bW
+ W -> cb | db

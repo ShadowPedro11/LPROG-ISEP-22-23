@@ -1,0 +1,12 @@
+T__0=1
+T__1=2
+TRUE=3
+FALSE=4
+STRING=5
+WORD=6
+WS=7
+NEWLINE=8
+'=====TRUE_OR_FALSE_QUESTION====='=1
+'=====END_QUESTION====='=2
+'True'=3
+'False'=4

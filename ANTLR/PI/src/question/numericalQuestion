@@ -1,0 +1,6 @@
+=====NUMERICAL_QUESTION=====
+Value: 1
+Feedback: A
+John has 25 marbles and he gives 8 away then how many marbles does John have now?
+17 (ERROR -0.5 +0.5) -> 10%
+=====END_QUESTION=====

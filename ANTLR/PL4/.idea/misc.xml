@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/EX1/HelloWorld.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\0941p\OneDrive\Ambiente de Trabalho\ISEP\ISEP_2ºano\2ºSemestre\LPROG\ANTLR\PL4\src\EX1" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/EX2/ex2.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\0941p\OneDrive\Ambiente de Trabalho\ISEP\ISEP_2ºano\2ºSemestre\LPROG\ANTLR\PL4\src\EX2" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/EX3/ex3.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\0941p\OneDrive\Ambiente de Trabalho\ISEP\ISEP_2ºano\2ºSemestre\LPROG\ANTLR\PL4\src\EX3" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

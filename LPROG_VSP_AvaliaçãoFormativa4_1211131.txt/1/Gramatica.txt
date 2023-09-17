@@ -1,0 +1,13 @@
+<lista_telefonica> ::= <entrada>*
+<entrada> ::= "<nome_escola>" "<num_alunos>" "<endereco>" "<nome_docente>" "<ext>" "<departamento>"
+
+<nome_escola> ::= "ISEP" | "ISCAP" | "ESE"
+<num_alunos> ::= <inteiro_maior_que_100>
+<endereco> ::= <string_com_max_40_chars_limitada_por_aspas>
+<nome_docente> ::= <string_com_max_40_chars_limitada_por_aspas>
+<ext> ::= <inteiro_maior_que_999>
+<departamento> ::= <string_com_max_40_chars_limitada_por_aspas>
+
+<inteiro_maior_que_100> ::= [1-9][0-9]+
+<inteiro_maior_que_999> ::= [1-9][0-9]{3,}
+<string_com_max_40_chars_limitada_por_aspas> ::= [^"]{1,40}

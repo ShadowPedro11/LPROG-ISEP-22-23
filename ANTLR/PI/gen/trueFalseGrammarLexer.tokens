@@ -1,0 +1,11 @@
+TRUE=1
+FALSE=2
+CORRECT=3
+WRONG=4
+WORD=5
+WS=6
+NEWLINE=7
+'True'=1
+'False'=2
+' correct'=3
+' wrong'=4

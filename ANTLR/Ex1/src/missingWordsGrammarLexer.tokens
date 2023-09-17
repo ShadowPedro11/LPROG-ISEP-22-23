@@ -1,0 +1,35 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+T__4=5
+T__5=6
+T__6=7
+INT=8
+CORRECT=9
+WRONG=10
+ARROW=11
+MISSING_WORDSYMBOL=12
+SPACE=13
+HIFEN=14
+VIRGULA=15
+END_STRING=16
+STRING=17
+WORD=18
+WS=19
+NEWLINE=20
+TRUE=21
+FALSE=22
+'=====MISSING_WORDS_QUESTION====='=1
+'=====END_QUESTION====='=2
+'Value: '=3
+'Feedback: '=4
+'Answer: '=5
+';'=6
+'=====TRUE_OR_FALSE_QUESTION====='=7
+'correct'=9
+'wrong'=10
+' '=13
+'-'=14
+'True'=21
+'False'=22

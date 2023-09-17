@@ -1,0 +1,7 @@
+T__0=1
+WORD=2
+INT=3
+OPERATOR=4
+BREAK=5
+WS=6
+' '=1

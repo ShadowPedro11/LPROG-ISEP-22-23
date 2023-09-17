@@ -1,0 +1,7 @@
+=====MISSING_WORDS_QUESTION=====
+Value: 1
+Feedback: The key of answer is are, went, Lord
+What ___ you doing today? Answer: are -> correct; doing -> wrong
+I ___ to the park yesterday. Answer: went -> correct; come -> wrong
+The ___ of the Rings is a famous fantasy novel. Answer: Lord -> correct; Wizard -> wrong
+=====END_QUESTION=====

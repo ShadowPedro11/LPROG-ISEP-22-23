@@ -1,0 +1,13 @@
+=====MATCHING_QUESTION=====
+Value: 1
+Feedback: The correct answer is Japan-Tokyo, Italy-Rome, Canada-Ottawa.
+Match the capital with the Country
+Sub-Questions:
+1: Japan
+2: Italy
+3: Canada
+Answers:
+1: Tokyo
+2: Rome
+3: Ottawa
+=====END_QUESTION=====

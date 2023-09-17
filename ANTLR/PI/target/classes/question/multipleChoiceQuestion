@@ -1,0 +1,9 @@
+=====MULTIPLE_CHOICE_QUESTION=====
+Value: 1
+Feedback: Lisbon is the capital of Portugal.
+What is the capital of Portugal?
+Lisbon -> correct -> 100%
+Paris -> wrong -> 0%
+Madrid -> wrong -> 0%
+Barcelona -> wrong -> 0%
+=====END_QUESTION=====

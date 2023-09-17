@@ -1,0 +1,88 @@
+=====EXAM_START=====
+Title: Sample Exams
+
+Header:
+Feedback: after-closing
+Grade: on-submission
+Description: This is a sample exam.
+
+Section: Section 1
+Description: This section contains matching questions.
+
+Question:
+=====MATCHING_QUESTION=====
+Value: 1
+Feedback: The correct answer is Japan-Tokyo, Italy-Rome, Canada-Ottawa.
+Match the capital with the Country
+Sub-Questions:
+1: Japan
+2: Italy
+3: Canada
+Answers:
+1: Tokyo
+2: Rome
+3: Ottawa
+=====END_QUESTION=====
+
+Section: Section 2
+Description: This section contains multiple-choice questions.
+
+Question:
+=====MULTIPLE_CHOICE_QUESTION=====
+Value: 1
+Feedback: Lisbon is the capital of Portugal.
+What is the capital of Portugal?
+Lisbon -> correct -> 100%
+Paris -> wrong -> 0%
+Madrid -> wrong -> 0%
+Barcelona -> wrong -> 0%
+=====END_QUESTION=====
+
+Question:
+=====MULTIPLE_CHOICE_QUESTION=====
+Value: 1
+Feedback: A is the first letter.
+Choose the correct one
+Option A -> wrong -> 0%
+Option B -> correct -> 100%
+Option C -> wrong -> 0%
+=====END_QUESTION=====
+
+Section: Section 3
+Description: This section contains multiple-choice questions.
+
+Question:
+=====MISSING_WORDS_QUESTION=====
+Value: 1
+Feedback: The key of answer is are, went, Lord
+What ___ you doing today? Answer: are -> correct; doing -> wrong
+I ___ to the park yesterday. Answer: went -> correct; come -> wrong
+The ___ of the Rings is a famous fantasy novel. Answer: Lord -> correct; Wizard -> wrong
+=====END_QUESTION=====
+
+Question:
+=====NUMERICAL_QUESTION=====
+Value: 1
+Feedback: A
+John has 25 marbles and he gives 8 away then how many marbles does John have now?
+17 (ERROR -0.5 +0.5) -> 10%
+=====END_QUESTION=====
+
+Question:
+=====SHORT_ANSWER_QUESTION=====
+Value: 1
+Feedback: The tombs of D Pedro and D Ines de Castro can be found in the Mosteiro of Alcobaca.
+Where is D.Ines de Castro buried?
+Lisbon -> 50%
+Monastery of Alcobaca -> 100%
+=====END_QUESTION=====
+
+Question:
+=====TRUE_OR_FALSE_QUESTION=====
+Value: 1
+Feedback: Aveiro is a city located on North of Portugal, so is not the capital.
+Is the capital of Portugal Aveiro?
+False
+=====END_QUESTION=====
+
+=====EXAM_END=====
